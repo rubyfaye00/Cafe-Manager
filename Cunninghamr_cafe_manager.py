@@ -1,3 +1,4 @@
+#Ruby Cunningham
 cafeName = "Fresh Brew Crew"
 taxRate = 0.1
 discountRate = 0.1
@@ -137,3 +138,4 @@ mainMenu()
 
             
                     
+
